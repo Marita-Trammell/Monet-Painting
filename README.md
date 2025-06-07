@@ -63,9 +63,3 @@ All images share the same dimensions and color channels, which simplifies the da
 
 ---
 
-## How to Run
-
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/<your-username>/monet-gan.git
-   cd monet-gan
